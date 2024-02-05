@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Sravschittela
-- 👀 I’m interested in ..web development,AI.
-- 🌱 I’m recently graduated ...
-- 💞️ I’m looking to collaborate on ..doing projects on web development.
-- 📫 How to reach me ...
+Hi 👋 My name is Lakshmi sravani chittela
+web developer
+🌍  I'm based in India
+✉️  You can contact me at lakshmisravanichittela@gmail.com
+🧠  I'm learning javascript,Node.js,React.js,cyber security
+Skills
+JavaScript
+C
+Java
+Python
+HTML5
+CSS3
+Amazon Web Services
+Photoshop
+Socials
 
-<!---
-Sravschittela/Sravschittela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+Badges
+My GitHub Stats
+
+
