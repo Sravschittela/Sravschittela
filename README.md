@@ -11,18 +11,18 @@ web developer
 Skills
 
 JavaScript
+
 C
+
 Java
+
 Python
+
 HTML5
-CSS3
+
+CSS 
+
 Amazon Web Services
-Photoshop
-Socials
 
-
-
-Badges
-My GitHub Stats
 
 
